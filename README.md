@@ -4,7 +4,8 @@ Hi there, I'm Moli Maheshwari 👋
 
 🔭 I am a Computer Science student (2024-2028) at Banasthali Vidyapith specializing in scalable backends, predictive AI, and AI-assisted workflows.
 
-💼 **Previously:** Machine Learning Intern at Techondater Systems, where I built an AI-powered 3D packing algorithm and interactive Streamlit web app.
+💼 **Previously:** 
+Machine Learning Intern at Techondater Systems, where I built an AI-powered 3D packing algorithm and interactive Streamlit web app.
 
 💡 I am driven by a builder’s mindset to continuously explore emerging technologies and engineer fast, secure, and reliable software solutions.
 
@@ -61,10 +62,10 @@ Hi there, I'm Moli Maheshwari 👋
 
 ### 🚀 Highlighted Projects:
 
-* **LiquiShield:** Upgraded financial risk models by building a fast backend with FastAPI and AWS Aurora PostgreSQL, alongside an AI tool using Facebook Prophet and NLP to predict market trends 30 days in advance. | [GitHub](https://liqui-shield.vercel.app/) | [Live URL](https://liqui-shield.vercel.app/)
-*   **Multi-Modal Toxicity Detector:** Built a live backend system using Node.js and Python combining OpenAI Whisper, Toxic-BERT, Librosa, and OpenCV to flag harmful content with >90% accuracy. | [GitHub](https://github.com/MOLI28/toxicity_detector)
-*   **AI-Driven 3D Packing Optimizer:** Developed a Python algorithm and Streamlit/Plotly web app to calculate the most efficient way to stack boxes into shipping containers. | [GitHub](https://github.com/MOLI28/AI-3D-Packing-Optimizer) | [Live URL](https://ai-3d-packing-optimizer-mrml9fvedyuayqyi8rcbva.streamlit.app/)
-*   **Boutique Demand Forecaster:** Engineered a machine learning pipeline using Python, Pandas, and Facebook Prophet to capture shopping seasonality and forecast customer demand. | [GitHub](https://github.com/MOLI28/boutique-demand-forecaster)
+* **LiquiShield:** Upgraded financial risk models by building a fast backend with FastAPI and AWS Aurora PostgreSQL, alongside an AI tool using Facebook Prophet and NLP to predict market trends 30 days in advance. | <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://liqui-shield.vercel.app/) [![Live URL](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://liqui-shield.vercel.app/)
+*   **Multi-Modal Toxicity Detector:** Built a live backend system using Node.js and Python combining OpenAI Whisper, Toxic-BERT, Librosa, and OpenCV to flag harmful content with >90% accuracy. | <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOLI28/toxicity_detector)
+*   **AI-Driven 3D Packing Optimizer:** Developed a Python algorithm and Streamlit/Plotly web app to calculate the most efficient way to stack boxes into shipping containers. | <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOLI28/AI-3D-Packing-Optimizer) [![Live URL](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-3d-packing-optimizer-mrml9fvedyuayqyi8rcbva.streamlit.app/)
+*   **Boutique Demand Forecaster:** Engineered a machine learning pipeline using Python, Pandas, and Facebook Prophet to capture shopping seasonality and forecast customer demand. | <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOLI28/boutique-demand-forecaster)
 
 ---
 
