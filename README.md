@@ -1,13 +1,20 @@
 ### 💫 About Me:
 
-Hi there, I'm Moli Maheshwari 👋 
+Hi there, I'm Moli Maheshwari 👋
 
-🔭 I am an aspiring Data Analyst and B.Tech Computer Science student (2024-2028) at Banasthali Vidyapith.<br>
-💡 I am highly passionate about developing low-latency backend architectures and AI-driven safety protocols.<br>
-🚀 Currently developing ScamGuard, a real-time fraud intervention system, and mastering C++ for Data Structures and Algorithms.<br>
-🏆 Proud to have ranked Top 10 in the Hack-Celestia global hackathon.<br>
-🎤 Fun fact: I have managed a 500+ live audience as a Stage Host and Lead Performer!<br>
-📫 Reach me at: molimaheshwari28@gmail.com<br>
+🔭 I am a Computer Science student (2024-2028) at Banasthali Vidyapith specializing in scalable backends, predictive AI, and AI-assisted workflows.
+
+💼 **Previously:** Machine Learning Intern at Techondater Systems, where I built an AI-powered 3D packing algorithm and interactive Streamlit web app.
+
+💡 I am driven by a builder’s mindset to continuously explore emerging technologies and engineer fast, secure, and reliable software solutions.
+
+🚀 **Currently developing:** ScamGuard, a real-time fraud intervention system, and mastering C++ for Data Structures and Algorithms.
+
+🏆 **Proud to have ranked:** Top 5 of 300+ at Internal SIH, Top 10 in Hack-Celestia, and selected as an India AI Impact '26 Delegate.
+
+🎤 **Fun fact:** I have managed a 500+ live audience as a Stage Host and Lead Performer!
+
+📫 **Reach me at:** [molimaheshwari28@gmail.com](mailto:molimaheshwari28@gmail.com)
 
 ---
 
@@ -54,27 +61,11 @@ Hi there, I'm Moli Maheshwari 👋
 
 ### 🚀 Highlighted Projects:
 
-*   **Multi-Modal Toxicity Detector:** Built a live backend system using Node.js and Python combining OpenAI Whisper, Toxic-BERT, Librosa, and OpenCV to flag harmful content with >90% accuracy. | [GitHub](#) | [Live Portfolio](#)
-*   **AI-Driven 3D Packing Optimizer:** Developed a Python algorithm and Streamlit/Plotly web app to calculate the most efficient way to stack boxes into shipping containers. | [GitHub](#) | [Live URL](#)
-*   **Boutique Demand Forecaster:** Engineered a machine learning pipeline using Python, Pandas, and Facebook Prophet to capture shopping seasonality and forecast customer demand. | [GitHub](#)
+* **LiquiShield:** Upgraded financial risk models by building a fast backend with FastAPI and AWS Aurora PostgreSQL, alongside an AI tool using Facebook Prophet and NLP to predict market trends 30 days in advance. | [GitHub](https://liqui-shield.vercel.app/) | [Live URL](https://liqui-shield.vercel.app/)
+*   **Multi-Modal Toxicity Detector:** Built a live backend system using Node.js and Python combining OpenAI Whisper, Toxic-BERT, Librosa, and OpenCV to flag harmful content with >90% accuracy. | [GitHub](https://github.com/MOLI28/toxicity_detector)
+*   **AI-Driven 3D Packing Optimizer:** Developed a Python algorithm and Streamlit/Plotly web app to calculate the most efficient way to stack boxes into shipping containers. | [GitHub](https://github.com/MOLI28/AI-3D-Packing-Optimizer) | [Live URL](https://ai-3d-packing-optimizer-mrml9fvedyuayqyi8rcbva.streamlit.app/)
+*   **Boutique Demand Forecaster:** Engineered a machine learning pipeline using Python, Pandas, and Facebook Prophet to capture shopping seasonality and forecast customer demand. | [GitHub](https://github.com/MOLI28/boutique-demand-forecaster)
 
 ---
 
-### 📊 GitHub Stats:
 
-<div align="left">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub handle! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MOLI28&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-<br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOLI28&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Trophies:
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub" alt="Trophies" />
-</div>
